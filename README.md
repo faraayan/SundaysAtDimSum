@@ -1,6 +1,7 @@
 ## Overview
 Sundays at Dim Sum is a single-player game where players control a platform of food to bounce into my family member's mouths. This theme originated from my love for going to dim sum with my family, which is a meal where we order a variety of small Chinese dishes to all share. 
 This game consists of 3-levels of increasing difficulty and contains a series of special blocks (extra score, extra life, slow down) that make the game suspenseful.
+![Sundays at Dim Sum Demo](images/demo1.png)
 
 ## How to play
 Use the left and right arrows to collid the food item with the blocks. If the food item falls below your platform, you will lose one of three lives. The game ends when a player loses all of their lives or completes all three levels.
