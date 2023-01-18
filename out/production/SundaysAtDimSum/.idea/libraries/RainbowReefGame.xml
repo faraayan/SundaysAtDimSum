@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RainbowReefGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/RainbowReefGame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
