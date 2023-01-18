@@ -2,6 +2,7 @@
 Sundays at Dim Sum is a single-player game where players control a platform of food to bounce into my family member's mouths. This theme originated from my love for going to dim sum with my family, which is a meal where we order a variety of small Chinese dishes to all share. 
 This game consists of 3-levels of increasing difficulty and contains a series of special blocks (extra score, extra life, slow down) that make the game suspenseful.
 <br><br>
+Watch a demo of [Sundays at Dim Sum](https://www.youtube.com/watch?v=22fNhZOYoHc)!<br>
 <img src="images/demo1.png" alt="Sundays at Dim Sum demo" width="600"/>
 
 ## How to play
@@ -12,5 +13,5 @@ Each level contains a series of blocks that prevent the food item from being rea
 * Extra Life: Grants players an extra life (maximum of 3 lives), which can be advantageous in keeping them in the game
 * Slow Down: Slows down the food item, which gives the player greater preparation time to hit the food item
 
-## In action
-Watch a demo of [Sundays at Dim Sum](https://www.youtube.com/watch?v=22fNhZOYoHc)!
+## Documentation
+For a more detailed understanding of the project structure, visit [my documentation](ProjectDocumentation.pdf).
